@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'airline.apps.AirlineConfig',
-    'rest_framework'
+    'rest_framework',
 ]
 REST_FRAMEWORK = {
     'DEFAULT_RENDERER_CLASSES': [

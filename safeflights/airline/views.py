@@ -4,7 +4,7 @@ import requests
 from rest_framework.decorators import api_view
 from rest_framework import status
 from rest_framework.response import Response
-from .models import FlightInfo, PassengerSeatInfo, Bookings,Airports
+from .models import FlightInfo, Bookings
 from datetime import datetime, timedelta
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt

@@ -18,3 +18,4 @@ urlpatterns = [
 
 # To test confirmFlightSeat:
 # http://127.0.0.1:8000/airline/flights/11/booking_id/200/transaction_id/200/seats/sw,sx/email/example@example.com/number_tickets/2/total_price/1000/cancelled/False/
+# http://127.0.0.1:8000/airline/flights/11/booking_id/200/transaction_id/200/seats/sw,sx/email/example@example.com/number_tickets/2/total_price/1000/cancelled/True/
