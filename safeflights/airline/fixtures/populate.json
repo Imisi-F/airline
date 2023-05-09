@@ -5,7 +5,7 @@
     {
       "id": 1,
       "flight_number": "AA101",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "JFK",
       "destination_airport": "LAX",
       "departure_date": "2023-05-10 04:38:22.019385",
@@ -19,7 +19,7 @@
     {
       "id": 2,
       "flight_number": "UA203",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "LAX",
       "destination_airport": "ORD",
       "departure_date": "2023-05-11 04:43:45.381482",
@@ -33,9 +33,9 @@
     {
       "id": 3,
       "flight_number": "DL311",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "JFK",
-      "destination_airport": "ATL",
+      "destination_airport": "CDG",
       "departure_date": "2023-05-10 04:43:45.426998",
       "arrival_date": "2023-05-10 07:43:45.460237",
       "flight_price": 150.00
@@ -47,7 +47,7 @@
     {
       "id": 4,
       "flight_number": "AA444",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "LAX",
       "destination_airport": "SFO",
       "departure_date": "2023-05-10 16:43:45.492996",
@@ -61,7 +61,7 @@
     {
       "id": 5,
       "flight_number": "UA555",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "ORD",
       "destination_airport": "LAX",
       "departure_date": "2023-05-11 14:43:45.560704",
@@ -75,8 +75,8 @@
     {
       "id": 6,
       "flight_number": "DL666",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
-      "departure_airport": "ATL",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "CDG",
       "destination_airport": "JFK",
       "departure_date": "2023-05-11 00:43:45.627139",
       "arrival_date": "2023-05-11 03:43:45.660197",
@@ -89,11 +89,11 @@
     {
       "id": 7,
       "flight_number": "AA777",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "LAX",
       "destination_airport": "ORD",
-      "departure_date": "2023-05-12 04:43:45.693651",
-      "arrival_date": "2023-05-12 10:43:45.727066",
+      "departure_date": "2023-05-10 04:43:45.693651",
+      "arrival_date": "2023-05-10 10:43:45.727066",
       "flight_price": 300.00
       }
     },
@@ -103,7 +103,7 @@
     {
       "id": 8,
       "flight_number": "UA888",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "ORD",
       "destination_airport": "SFO",
       "departure_date": "2023-05-11 12:43:45.760194",
@@ -117,7 +117,7 @@
     {
       "id": 9,
       "flight_number": "DL999",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "JFK",
       "destination_airport": "LAX",
       "departure_date": "2023-05-11 20:43:45.843616",
@@ -131,12 +131,180 @@
     {
       "id": 10,
       "flight_number": "AA1111",
-      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
       "departure_airport": "SFO",
       "destination_airport": "ORD",
       "departure_date": "2023-05-13 04:43:45.909466",
       "arrival_date": "2023-05-13 11:43:45.944070",
       "flight_price": 350.00
       }
+    },
+    {
+      "model": "airline.FlightInfo",
+      "fields":   
+      {
+        "id": 11,
+        "flight_number": "BB101",
+        "seat_list": "sz:0,sy:1,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+        "departure_airport": "JFK",
+        "destination_airport": "LAX",
+        "departure_date": "2023-05-10 06:30:45.700194",
+        "arrival_date": "2023-05-12 12:35:25.862114",
+        "flight_price": 100.00
+      }
+    },
+    {
+      "model": "airline.FlightInfo",
+      "fields":   
+      {
+        "id": 12,
+        "flight_number": "UT503",
+        "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+        "departure_airport": "LAX",
+        "destination_airport": "ORD",
+        "departure_date": "2023-05-11 15:00:22.731714",
+        "arrival_date": "2023-05-11 19:00:08.120144",
+        "flight_price": 290.00
+        }
+      },
+    {
+      "model": "airline.FlightInfo",
+      "fields":   
+      {
+        "id": 13,
+        "flight_number": "GP359",
+        "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+        "departure_airport": "JFK",
+        "destination_airport": "CDG",
+        "departure_date": "2023-05-10 07:00:19.128614",
+        "arrival_date": "2023-05-10 10:00:55.230434",
+        "flight_price": 150.00
+        }
+      },
+  {
+    "model": "airline.FlightInfo",
+    "fields":
+    {
+    "id": 14,
+    "flight_number": "UA888",
+    "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+    "departure_airport": "ORD",
+    "destination_airport": "LAX",
+    "departure_date": "2023-05-11 10:30:28.129361",
+    "arrival_date": "2023-05-11 13:30:02.792619",
+    "flight_price": 400.00
     }
+  },
+  {
+    "model": "airline.FlightInfo",
+    "fields":
+    {
+    "id": 15,
+    "flight_number": "AA999",
+    "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+    "departure_airport": "SFO",
+    "destination_airport": "JFK",
+    "departure_date": "2023-05-13 15:00:49.926371",
+    "arrival_date": "2023-05-14 00:00:34.823427",
+    "flight_price": 450.00
+    }
+  },
+  {
+    "model": "airline.FlightInfo",
+    "fields":
+    {
+    "id": 16,
+    "flight_number": "DL777",
+    "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+    "departure_airport": "CDG",
+    "destination_airport": "JFK",
+    "departure_date": "2023-05-11 12:00:42.927493",
+    "arrival_date": "2023-05-11 15:00:26.820274",
+    "flight_price": 200.00
+    }
+  },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 17,
+      "flight_number": "BC851",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "SYD",
+      "destination_airport": "IST",
+      "departure_date": "2023-05-11 06:30:45.700194",
+      "arrival_date": "2023-05-11 12:35:25.862114",
+      "flight_price": 600.00
+    }
+  },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 18,
+      "flight_number": "JD256",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "SYD",
+      "destination_airport": "IST",
+      "departure_date": "2023-05-11 15:00:22.731714",
+      "arrival_date": "2023-05-11 19:00:08.120144",
+      "flight_price": 1000.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 19,
+      "flight_number": "JI234",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "HTR",
+      "destination_airport": "CDG",
+      "departure_date": "2023-05-10 07:00:19.128614",
+      "arrival_date": "2023-05-10 10:00:55.230434",
+      "flight_price": 150.00
+      }
+    },
+{
+  "model": "airline.FlightInfo",
+  "fields":
+  {
+  "id": 20,
+  "flight_number": "FS094",
+  "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+  "departure_airport": "HTR",
+  "destination_airport": "CDG",
+  "departure_date": "2023-05-10 10:30:28.129361",
+  "arrival_date": "2023-05-10 13:30:02.792619",
+  "flight_price": 195.00
+  }
+},
+{
+  "model": "airline.FlightInfo",
+  "fields":
+  {
+  "id": 21,
+  "flight_number": "WE893",
+  "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+  "departure_airport": "IST",
+  "destination_airport": "LOS",
+  "departure_date": "2023-05-13 15:00:49.926371",
+  "arrival_date": "2023-05-13 00:00:34.823427",
+  "flight_price": 850.00
+  }
+},
+{
+  "model": "airline.FlightInfo",
+  "fields":
+  {
+  "id": 22,
+  "flight_number": "GE092",
+  "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0,ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+  "departure_airport": "IST",
+  "destination_airport": "LOS",
+  "departure_date": "2023-05-13 12:00:42.927493",
+  "arrival_date": "2023-05-13 15:00:26.820274",
+  "flight_price": 1200.00
+  }
+}
 ]
