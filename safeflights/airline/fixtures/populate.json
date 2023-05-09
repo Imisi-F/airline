@@ -1,0 +1,142 @@
+[
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 1,
+      "flight_number": "AA101",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "JFK",
+      "destination_airport": "LAX",
+      "departure_date": "2023-05-10 04:38:22.019385",
+      "arrival_date": "2023-05-10 10:39:12.874916",
+      "flight_price": 250.00
+    }
+  },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 2,
+      "flight_number": "UA203",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "LAX",
+      "destination_airport": "ORD",
+      "departure_date": "2023-05-11 04:43:45.381482",
+      "arrival_date": "2023-05-11 08:43:45.394188",
+      "flight_price": 350.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 3,
+      "flight_number": "DL311",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "JFK",
+      "destination_airport": "ATL",
+      "departure_date": "2023-05-10 04:43:45.426998",
+      "arrival_date": "2023-05-10 07:43:45.460237",
+      "flight_price": 150.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 4,
+      "flight_number": "AA444",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "LAX",
+      "destination_airport": "SFO",
+      "departure_date": "2023-05-10 16:43:45.492996",
+      "arrival_date": "2023-05-10 18:13:45.526869",
+      "flight_price": 100.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 5,
+      "flight_number": "UA555",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "ORD",
+      "destination_airport": "LAX",
+      "departure_date": "2023-05-11 14:43:45.560704",
+      "arrival_date": "2023-05-11 18:43:45.593710",
+      "flight_price": 375.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 6,
+      "flight_number": "DL666",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "ATL",
+      "destination_airport": "JFK",
+      "departure_date": "2023-05-11 00:43:45.627139",
+      "arrival_date": "2023-05-11 03:43:45.660197",
+      "flight_price": 175.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 7,
+      "flight_number": "AA777",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "LAX",
+      "destination_airport": "ORD",
+      "departure_date": "2023-05-12 04:43:45.693651",
+      "arrival_date": "2023-05-12 10:43:45.727066",
+      "flight_price": 300.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 8,
+      "flight_number": "UA888",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "ORD",
+      "destination_airport": "SFO",
+      "departure_date": "2023-05-11 12:43:45.760194",
+      "arrival_date": "2023-05-11 16:13:45.809002",
+      "flight_price": 400.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 9,
+      "flight_number": "DL999",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "JFK",
+      "destination_airport": "LAX",
+      "departure_date": "2023-05-11 20:43:45.843616",
+      "arrival_date": "2023-05-12 02:43:45.875649",
+      "flight_price": 275.00
+      }
+    },
+  {
+    "model": "airline.FlightInfo",
+    "fields":   
+    {
+      "id": 10,
+      "flight_number": "AA1111",
+      "seat_list": "sz:0,sy:0,sx:0,sw:0,sv:0,su:0,st:0 ss:0,sr:0,sa:0,sb:0,sc:0,sd:0,se:0,sf:0,sg:0,sh:0,si:0,sj:0,sk:0,sl:0,sm:0,sn:0,so:0,sp:0,sq:0",
+      "departure_airport": "SFO",
+      "destination_airport": "ORD",
+      "departure_date": "2023-05-13 04:43:45.909466",
+      "arrival_date": "2023-05-13 11:43:45.944070",
+      "flight_price": 350.00
+      }
+    }
+]
